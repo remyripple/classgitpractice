@@ -1,6 +1,35 @@
 html {
   box-sizing: border-box;
+  background-color: lightpink;
 }
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+.lit{
+  font-size: 50px;
+  color: hotpink;
+  text-align: justify;
+}
+
+.fam{
+  font-size: 50px;
+  color: hotpink;
+  text-align: justify;
+
+}
+.djinn{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  position: relative;
+  left: 10%;
+
+}
+
+
+img{
+  width: 1000px;
+  align-items: center;
+
 }
