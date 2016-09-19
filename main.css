@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: black;
+  background-color: lightpink;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -8,9 +8,8 @@ html {
 
 .lit{
   font-size: 50px;
-  color: white;
-  text-align: center;
-
+  color: hotpink;
+  text-align: justify;;
 }
 
 .djinn{
