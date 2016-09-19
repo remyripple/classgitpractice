@@ -1,6 +1,30 @@
 html {
   box-sizing: border-box;
+  background-color: black;
 }
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+.lit{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+.djinn{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  position: relative;
+  left: 10%;
+
+}
+
+
+img{
+  width: 1000px;
+  align-items: center;
+
 }
